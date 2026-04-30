@@ -10,16 +10,16 @@
 - https://denmark.avokatfinder.com/contact/: Contact us
 
 ## Legal Glossary Terms
-- https://denmark.avokatfinder.com/glossary/aktieselskab/
 - https://denmark.avokatfinder.com/glossary/andelsbolig/
-- https://denmark.avokatfinder.com/glossary/bopaelsattest/
 - https://denmark.avokatfinder.com/glossary/cpr-nummer/
 - https://denmark.avokatfinder.com/glossary/ejendomsvaerdiskat/
+- https://denmark.avokatfinder.com/glossary/skode/
+- https://denmark.avokatfinder.com/glossary/tinglysning-dk/
+- https://denmark.avokatfinder.com/glossary/aktieselskab/
+- https://denmark.avokatfinder.com/glossary/bopaelsattest/
 - https://denmark.avokatfinder.com/glossary/lejekontrakt-dk/
 - https://denmark.avokatfinder.com/glossary/separation-skilsmisse/
-- https://denmark.avokatfinder.com/glossary/skode/
 - https://denmark.avokatfinder.com/glossary/testamente-dk/
-- https://denmark.avokatfinder.com/glossary/tinglysning-dk/
 
 ## Site Info
 - Language: English
