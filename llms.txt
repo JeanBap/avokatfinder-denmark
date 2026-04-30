@@ -1,5 +1,33 @@
 # AvökatFinder Denmark
-> English-speaking law firm directory for Denmark
+> The English-language directory of lawyers and law firms in Denmark for expats, foreign nationals and international businesses.
 
-Directory: https://denmark.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://denmark.avokatfinder.com/: Home — find an English-speaking lawyer in Denmark
+- https://denmark.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Denmark
+- https://denmark.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Denmark legal terms
+- https://denmark.avokatfinder.com/blog/: Expat legal guides and property law articles for Denmark
+- https://denmark.avokatfinder.com/about/: About AvökatFinder Denmark
+- https://denmark.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://denmark.avokatfinder.com/glossary/aktieselskab/
+- https://denmark.avokatfinder.com/glossary/andelsbolig/
+- https://denmark.avokatfinder.com/glossary/bopaelsattest/
+- https://denmark.avokatfinder.com/glossary/cpr-nummer/
+- https://denmark.avokatfinder.com/glossary/ejendomsvaerdiskat/
+- https://denmark.avokatfinder.com/glossary/lejekontrakt-dk/
+- https://denmark.avokatfinder.com/glossary/separation-skilsmisse/
+- https://denmark.avokatfinder.com/glossary/skode/
+- https://denmark.avokatfinder.com/glossary/testamente-dk/
+- https://denmark.avokatfinder.com/glossary/tinglysning-dk/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Denmark
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://denmark.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
